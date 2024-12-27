@@ -4,7 +4,7 @@
 
 ![print projeto vitrine codelandia](https://github.com/user-attachments/assets/84cc92d9-bfc6-4a49-a68e-037a3ec26adb)
 
-<h4 align="center"><a href="https://gabrielalencs.github.io/Site-Desafios-CodeLab/">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="https://gabrielalencs.github.io/Vitrine-Desafios-CodeLab/">Clique para visitar o projeto</a></h4>
 
  <h2>Tecnologias Utilizadas 💻</h2>
  
